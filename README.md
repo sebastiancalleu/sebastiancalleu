@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sebastian Calle Uribe</h1>
+<h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">A Chemical Engineer who decide to switch to the Tech World</h3>
 
 - 🔭 I’m currently working on **Holbertons School's projects**
