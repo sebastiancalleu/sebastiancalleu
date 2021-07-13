@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastián</h1>
 <h3 align="center">A Chemical Engineer who decide to switch to the Tech World</h3>
 
-- 🔭 I’m currently working on **Holbertons School's projects**
+- 🔭 I’m currently working as a Software Engineer on **<a href= "https://www.dapi.co/">Dapi</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
